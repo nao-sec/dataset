@@ -26,3 +26,17 @@ SHA256 hash of malware used in Seamless (Rig Exploit Kit)
 
 - tss.json  
 TSS Data (url, domain, ip, campaign)
+
+## 2017-09
+
+- rig.ip.json  
+IP address of Rig Exploit Kit
+
+- rulan.json  
+SHA256 hash of malware used in Rulan (Rig Exploit Kit)
+
+- seamless.json  
+SHA256 hash of malware used in Seamless (Rig Exploit Kit)
+
+- tss.json  
+TSS data (url, domain, ip, campaign)
