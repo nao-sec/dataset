@@ -2,6 +2,11 @@
 This is the data I observed.  
 If you want other data, please DM me ([@nao_sec](https://twitter.com/nao_sec))
 
+## /
+
+- rig.params.json  
+URL parameters of Rig Exploit Kit
+
 ## 2017-07
 
 - rig.ip.json  

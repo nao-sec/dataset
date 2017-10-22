@@ -1,0 +1,3831 @@
+[
+    {
+        "0": "qtuif",
+        "1": "ct",
+        "2": "q",
+        "3": "oq",
+        "created_at": "2017-05-04 01:29:56"
+    },
+    {
+        "0": "ct",
+        "1": "tuesday",
+        "2": "q",
+        "3": "basket",
+        "4": "oq",
+        "5": "fisher",
+        "created_at": "2017-05-06 23:00:02"
+    },
+    {
+        "0": "car",
+        "1": "policy",
+        "2": "q",
+        "3": "oq",
+        "4": "wendsday",
+        "5": "ct",
+        "created_at": "2017-05-10 10:00:01"
+    },
+    {
+        "0": "q",
+        "1": "oq",
+        "created_at": "2017-05-26 14:00:02"
+    },
+    {
+        "0": "q",
+        "1": "oq",
+        "2": "yus",
+        "created_at": "2017-05-26 20:00:02"
+    },
+    {
+        "0": "br_fl",
+        "1": "yus",
+        "2": "oq",
+        "3": "q",
+        "created_at": "2017-05-27 16:00:02"
+    },
+    {
+        "0": "q",
+        "1": "oq",
+        "2": "br_fl",
+        "3": "car",
+        "4": "yus",
+        "created_at": "2017-05-27 20:00:02"
+    },
+    {
+        "0": "home",
+        "1": "q",
+        "2": "car",
+        "3": "oq",
+        "4": "biw",
+        "5": "yus",
+        "6": "fix",
+        "7": "br_fl",
+        "created_at": "2017-05-30 11:00:03"
+    },
+    {
+        "0": "oq",
+        "1": "car",
+        "2": "home",
+        "3": "biw",
+        "4": "br_fl",
+        "5": "yus",
+        "6": "fix",
+        "7": "ct",
+        "8": "q",
+        "created_at": "2017-05-30 19:00:03"
+    },
+    {
+        "0": "yus",
+        "1": "q",
+        "2": "ct",
+        "3": "biw",
+        "4": "oq",
+        "5": "fix",
+        "created_at": "2017-05-31 12:00:03"
+    },
+    {
+        "0": "yus",
+        "1": "oq",
+        "2": "biw",
+        "3": "fix",
+        "4": "true",
+        "5": "ct",
+        "6": "q",
+        "created_at": "2017-06-02 05:00:02"
+    },
+    {
+        "0": "oq",
+        "1": "yus",
+        "2": "q",
+        "3": "ct",
+        "created_at": "2017-06-08 02:00:01"
+    },
+    {
+        "0": "index_html?",
+        "1": "oq",
+        "2": "q",
+        "created_at": "2017-06-12 02:01:02"
+    },
+    {
+        "0": "Money",
+        "1": "sessid",
+        "2": "param",
+        "3": "Travel",
+        "4": "Style",
+        "created_at": "2017-06-12 08:01:02"
+    },
+    {
+        "0": "Tech",
+        "1": "sessid",
+        "2": "param",
+        "created_at": "2017-06-12 08:01:03"
+    },
+    {
+        "0": "Tech",
+        "1": "sessid",
+        "2": "param",
+        "3": "Travel",
+        "4": "Video",
+        "created_at": "2017-06-12 08:01:04"
+    },
+    {
+        "0": "Style",
+        "1": "param",
+        "2": "sessid",
+        "3": "Money",
+        "created_at": "2017-06-12 08:01:05"
+    },
+    {
+        "0": "Health",
+        "1": "sessid",
+        "2": "param",
+        "3": "Sport",
+        "created_at": "2017-06-12 09:01:01"
+    },
+    {
+        "0": "Money",
+        "1": "param",
+        "2": "sessid",
+        "3": "Video",
+        "4": "Style",
+        "created_at": "2017-06-12 09:01:02"
+    },
+    {
+        "0": "Tech",
+        "1": "param",
+        "2": "sessid",
+        "3": "Sport",
+        "4": "Video",
+        "created_at": "2017-06-12 09:01:03"
+    },
+    {
+        "0": "Style",
+        "1": "sessid",
+        "2": "param",
+        "3": "Money",
+        "4": "Regions",
+        "created_at": "2017-06-12 09:01:04"
+    },
+    {
+        "0": "Travel",
+        "1": "sessid",
+        "2": "param",
+        "3": "Regions",
+        "created_at": "2017-06-12 10:01:03"
+    },
+    {
+        "0": "Sport",
+        "1": "param",
+        "2": "sessid",
+        "3": "Style",
+        "4": "Video",
+        "created_at": "2017-06-12 10:01:04"
+    },
+    {
+        "0": "Money",
+        "1": "param",
+        "2": "sessid",
+        "3": "Regions",
+        "created_at": "2017-06-12 10:01:05"
+    },
+    {
+        "0": "Video",
+        "1": "param",
+        "2": "sessid",
+        "3": "Tech",
+        "4": "Health",
+        "created_at": "2017-06-12 11:01:02"
+    },
+    {
+        "0": "Style",
+        "1": "sessid",
+        "2": "param",
+        "3": "Money",
+        "created_at": "2017-06-12 11:01:03"
+    },
+    {
+        "0": "Travel",
+        "1": "sessid",
+        "2": "param",
+        "3": "Video",
+        "created_at": "2017-06-12 11:01:03"
+    },
+    {
+        "0": "Tech",
+        "1": "param",
+        "2": "sessid",
+        "created_at": "2017-06-12 11:01:04"
+    },
+    {
+        "0": "Travel",
+        "1": "param",
+        "2": "sessid",
+        "3": "Regions",
+        "4": "Health",
+        "created_at": "2017-06-12 11:01:04"
+    },
+    {
+        "0": "Sport",
+        "1": "sessid",
+        "2": "param",
+        "3": "Tech",
+        "created_at": "2017-06-12 12:01:03"
+    },
+    {
+        "0": "Health",
+        "1": "sessid",
+        "2": "param",
+        "created_at": "2017-06-12 12:01:04"
+    },
+    {
+        "0": "Money",
+        "1": "sessid",
+        "2": "param",
+        "3": "Video",
+        "created_at": "2017-06-12 12:01:04"
+    },
+    {
+        "0": "Tech",
+        "1": "sessid",
+        "2": "param",
+        "3": "Travel",
+        "4": "Regions",
+        "5": "Video",
+        "created_at": "2017-06-12 12:01:05"
+    },
+    {
+        "0": "Style",
+        "1": "sessid",
+        "2": "param",
+        "created_at": "2017-06-12 13:01:03"
+    },
+    {
+        "0": "Tech",
+        "1": "sessid",
+        "2": "param",
+        "3": "Travel",
+        "created_at": "2017-06-12 13:01:04"
+    },
+    {
+        "0": "Health",
+        "1": "param",
+        "2": "sessid",
+        "3": "Money",
+        "created_at": "2017-06-12 13:01:05"
+    },
+    {
+        "0": "Regions",
+        "1": "sessid",
+        "2": "param",
+        "3": "Video",
+        "4": "Sport",
+        "5": "Money",
+        "created_at": "2017-06-12 13:01:05"
+    },
+    {
+        "0": "Travel",
+        "1": "param",
+        "2": "sessid",
+        "3": "Money",
+        "4": "Style",
+        "5": "Health",
+        "6": "Regions",
+        "created_at": "2017-06-12 14:01:03"
+    },
+    {
+        "0": "Sport",
+        "1": "sessid",
+        "2": "param",
+        "3": "Regions",
+        "created_at": "2017-06-12 15:01:02"
+    },
+    {
+        "0": "Money",
+        "1": "param",
+        "2": "sessid",
+        "3": "Style",
+        "created_at": "2017-06-12 15:01:03"
+    },
+    {
+        "0": "Tech",
+        "1": "sessid",
+        "2": "param",
+        "3": "Regions",
+        "created_at": "2017-06-12 15:01:03"
+    },
+    {
+        "0": "Health",
+        "1": "param",
+        "2": "sessid",
+        "3": "Sport",
+        "4": "Money",
+        "created_at": "2017-06-12 15:01:04"
+    },
+    {
+        "0": "Video",
+        "1": "param",
+        "2": "help",
+        "3": "sessid",
+        "4": "Style",
+        "created_at": "2017-06-12 16:01:02"
+    },
+    {
+        "0": "Health",
+        "1": "help",
+        "2": "sessid",
+        "3": "param",
+        "4": "Travel",
+        "created_at": "2017-06-12 16:01:03"
+    },
+    {
+        "0": "Regions",
+        "1": "sessid",
+        "2": "param",
+        "3": "help",
+        "4": "Sport",
+        "created_at": "2017-06-12 16:01:03"
+    },
+    {
+        "0": "Health",
+        "1": "param",
+        "2": "sessid",
+        "3": "help",
+        "4": "Money",
+        "created_at": "2017-06-12 16:01:04"
+    },
+    {
+        "0": "Health",
+        "1": "param",
+        "2": "sessid",
+        "3": "help",
+        "created_at": "2017-06-12 16:01:05"
+    },
+    {
+        "0": "Regions",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "4": "Video",
+        "5": "Health",
+        "created_at": "2017-06-12 16:01:05"
+    },
+    {
+        "0": "Health",
+        "1": "sessid",
+        "2": "param",
+        "3": "help",
+        "4": "Sport",
+        "created_at": "2017-06-12 17:01:03"
+    },
+    {
+        "0": "Travel",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "4": "Style",
+        "created_at": "2017-06-12 17:01:03"
+    },
+    {
+        "0": "Style",
+        "1": "param",
+        "2": "sessid",
+        "3": "help",
+        "created_at": "2017-06-12 17:01:04"
+    },
+    {
+        "0": "Style",
+        "1": "sessid",
+        "2": "help",
+        "3": "param",
+        "4": "Video",
+        "created_at": "2017-06-12 17:01:04"
+    },
+    {
+        "0": "Health",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "4": "Regions",
+        "created_at": "2017-06-12 17:01:05"
+    },
+    {
+        "0": "Regions",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "created_at": "2017-06-12 18:01:02"
+    },
+    {
+        "0": "Travel",
+        "1": "sessid",
+        "2": "param",
+        "3": "help",
+        "4": "Tech",
+        "created_at": "2017-06-12 18:01:03"
+    },
+    {
+        "0": "Regions",
+        "1": "help",
+        "2": "sessid",
+        "3": "param",
+        "created_at": "2017-06-12 18:01:04"
+    },
+    {
+        "0": "Style",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "4": "Travel",
+        "5": "Money",
+        "created_at": "2017-06-12 18:01:04"
+    },
+    {
+        "0": "Tech",
+        "1": "param",
+        "2": "help",
+        "3": "sessid",
+        "4": "Regions",
+        "5": "Money",
+        "created_at": "2017-06-12 18:01:05"
+    },
+    {
+        "0": "Travel",
+        "1": "param",
+        "2": "sessid",
+        "3": "help",
+        "4": "Style",
+        "created_at": "2017-06-12 19:01:02"
+    },
+    {
+        "0": "Regions",
+        "1": "sessid",
+        "2": "help",
+        "3": "param",
+        "4": "Tech",
+        "created_at": "2017-06-12 19:01:03"
+    },
+    {
+        "0": "Sport",
+        "1": "help",
+        "2": "sessid",
+        "3": "param",
+        "4": "Tech",
+        "created_at": "2017-06-12 19:01:04"
+    },
+    {
+        "0": "Regions",
+        "1": "param",
+        "2": "help",
+        "3": "sessid",
+        "4": "Style",
+        "5": "Health",
+        "created_at": "2017-06-12 19:01:05"
+    },
+    {
+        "0": "Health",
+        "1": "sessid",
+        "2": "help",
+        "3": "param",
+        "4": "Tech",
+        "5": "Style",
+        "created_at": "2017-06-12 20:01:03"
+    },
+    {
+        "0": "Style",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "4": "Travel",
+        "created_at": "2017-06-12 20:01:04"
+    },
+    {
+        "0": "Tech",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "4": "Health",
+        "created_at": "2017-06-12 20:01:04"
+    },
+    {
+        "0": "Travel",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "4": "Video",
+        "created_at": "2017-06-12 20:01:05"
+    },
+    {
+        "0": "Tech",
+        "1": "param",
+        "2": "sessid",
+        "3": "help",
+        "4": "Regions",
+        "created_at": "2017-06-12 21:01:02"
+    },
+    {
+        "0": "Health",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "created_at": "2017-06-12 21:01:03"
+    },
+    {
+        "0": "Travel",
+        "1": "sessid",
+        "2": "help",
+        "3": "param",
+        "4": "Regions",
+        "created_at": "2017-06-12 21:01:03"
+    },
+    {
+        "0": "Health",
+        "1": "help",
+        "2": "sessid",
+        "3": "param",
+        "4": "Tech",
+        "created_at": "2017-06-12 21:01:04"
+    },
+    {
+        "0": "Money",
+        "1": "help",
+        "2": "sessid",
+        "3": "param",
+        "created_at": "2017-06-12 21:01:04"
+    },
+    {
+        "0": "Regions",
+        "1": "help",
+        "2": "sessid",
+        "3": "param",
+        "4": "Tech",
+        "created_at": "2017-06-12 21:01:05"
+    },
+    {
+        "0": "Sport",
+        "1": "help",
+        "2": "sessid",
+        "3": "param",
+        "4": "Health",
+        "created_at": "2017-06-12 22:01:02"
+    },
+    {
+        "0": "Style",
+        "1": "param",
+        "2": "help",
+        "3": "sessid",
+        "created_at": "2017-06-12 22:01:03"
+    },
+    {
+        "0": "Video",
+        "1": "help",
+        "2": "sessid",
+        "3": "param",
+        "4": "Travel",
+        "created_at": "2017-06-12 22:01:03"
+    },
+    {
+        "0": "Sport",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "created_at": "2017-06-12 22:01:04"
+    },
+    {
+        "0": "Travel",
+        "1": "sessid",
+        "2": "param",
+        "3": "help",
+        "4": "Regions",
+        "5": "Tech",
+        "6": "Style",
+        "7": "Video",
+        "created_at": "2017-06-12 22:01:05"
+    },
+    {
+        "0": "Sport",
+        "1": "sessid",
+        "2": "help",
+        "3": "param",
+        "4": "Money",
+        "5": "Regions",
+        "created_at": "2017-06-12 23:01:04"
+    },
+    {
+        "0": "Travel",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "4": "Health",
+        "5": "Money",
+        "6": "Regions",
+        "7": "Video",
+        "created_at": "2017-06-13 00:01:01"
+    },
+    {
+        "0": "Regions",
+        "1": "sessid",
+        "2": "help",
+        "3": "param",
+        "created_at": "2017-06-13 00:01:04"
+    },
+    {
+        "0": "Regions",
+        "1": "sessid",
+        "2": "help",
+        "3": "param",
+        "4": "Video",
+        "created_at": "2017-06-13 00:01:04"
+    },
+    {
+        "0": "Tech",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "created_at": "2017-06-13 01:01:02"
+    },
+    {
+        "0": "Money",
+        "1": "sessid",
+        "2": "param",
+        "3": "help",
+        "4": "Tech",
+        "5": "Regions",
+        "created_at": "2017-06-13 01:01:03"
+    },
+    {
+        "0": "Travel",
+        "1": "help",
+        "2": "param",
+        "3": "sessid",
+        "created_at": "2017-06-13 01:01:04"
+    },
+    {
+        "0": "Video",
+        "1": "sessid",
+        "2": "param",
+        "3": "help",
+        "4": "Sport",
+        "5": "Regions",
+        "6": "Money",
+        "created_at": "2017-06-13 01:01:04"
+    },
+    {
+        "0": "Money",
+        "1": "sessid",
+        "2": "param",
+        "3": "help",
+        "4": "Travel",
+        "5": "Video",
+        "6": "Sport",
+        "created_at": "2017-06-13 02:01:03"
+    },
+    {
+        "0": "Tech",
+        "1": "help",
+        "2": "sessid",
+        "3": "param",
+        "4": "Health",
+        "created_at": "2017-06-13 05:01:04"
+    },
+    {
+        "0": "Tech",
+        "1": "help",
+        "2": "sessid",
+        "3": "param",
+        "4": "travel",
+        "5": "Video",
+        "created_at": "2017-06-13 06:01:04"
+    },
+    {
+        "0": "Travel",
+        "1": "travel",
+        "2": "param",
+        "3": "help",
+        "4": "sessid",
+        "created_at": "2017-06-13 07:01:03"
+    },
+    {
+        "0": "Style",
+        "1": "travel",
+        "2": "param",
+        "3": "help",
+        "4": "sessid",
+        "5": "Health",
+        "6": "Travel",
+        "created_at": "2017-06-13 08:01:04"
+    },
+    {
+        "0": "Style",
+        "1": "travel",
+        "2": "param",
+        "3": "help",
+        "4": "sessid",
+        "created_at": "2017-06-13 10:01:05"
+    },
+    {
+        "0": "Travel",
+        "1": "help",
+        "2": "travel",
+        "3": "session",
+        "4": "paramaters",
+        "5": "Sport",
+        "created_at": "2017-06-13 11:01:03"
+    },
+    {
+        "0": "Video",
+        "1": "session",
+        "2": "travel",
+        "3": "help",
+        "4": "paramaters",
+        "5": "Tech",
+        "created_at": "2017-06-13 12:01:04"
+    },
+    {
+        "0": "Tech",
+        "1": "travel",
+        "2": "ecoparamaters",
+        "3": "help",
+        "4": "bsession",
+        "5": "Money",
+        "created_at": "2017-06-13 13:01:04"
+    },
+    {
+        "0": "Reg",
+        "1": "esession",
+        "2": "ahr_fl",
+        "3": "help",
+        "4": "eparamaters",
+        "5": "travel",
+        "6": "vel",
+        "7": "Vid",
+        "created_at": "2017-06-13 23:01:02"
+    },
+    {
+        "0": "Lpe",
+        "1": "van",
+        "2": "flaner",
+        "3": "travel",
+        "4": "helo",
+        "5": "Hea",
+        "created_at": "2017-06-19 15:01:03"
+    },
+    {
+        "0": "Hea",
+        "1": "helo",
+        "2": "flaner",
+        "3": "van",
+        "4": "travel",
+        "created_at": "2017-06-19 17:01:03"
+    },
+    {
+        "0": "vel",
+        "1": "traveling",
+        "2": "van",
+        "3": "man",
+        "4": "flight",
+        "5": "Mon",
+        "created_at": "2017-06-19 18:01:05"
+    },
+    {
+        "0": "Lpe",
+        "1": "world",
+        "2": "cars",
+        "3": "flight",
+        "4": "traveling",
+        "5": "vel",
+        "created_at": "2017-06-21 09:30:28"
+    },
+    {
+        "0": "Hea",
+        "1": "flight",
+        "2": "cars",
+        "3": "world",
+        "4": "traveling",
+        "5": "ele",
+        "created_at": "2017-06-21 10:01:04"
+    },
+    {
+        "0": "Lpe",
+        "1": "traveling",
+        "2": "flight",
+        "3": "cars",
+        "4": "world",
+        "5": "Tech",
+        "6": "vel",
+        "created_at": "2017-06-21 11:01:05"
+    },
+    {
+        "0": "vel",
+        "1": "traveling",
+        "2": "cars",
+        "3": "world",
+        "4": "flight",
+        "5": "ele",
+        "created_at": "2017-06-21 13:01:05"
+    },
+    {
+        "0": "vel",
+        "1": "world",
+        "2": "traveling",
+        "3": "flight",
+        "4": "cars",
+        "5": "Lpe",
+        "created_at": "2017-06-21 16:01:05"
+    },
+    {
+        "0": "vel",
+        "1": "flight",
+        "2": "traveling",
+        "3": "cars",
+        "4": "world",
+        "5": "ele",
+        "created_at": "2017-06-21 17:01:05"
+    },
+    {
+        "0": "ele",
+        "1": "world",
+        "2": "cars",
+        "3": "traveling",
+        "4": "flight",
+        "5": "vel",
+        "6": "Vid",
+        "created_at": "2017-06-21 19:01:04"
+    },
+    {
+        "0": "Tech",
+        "1": "traveling",
+        "2": "world",
+        "3": "cars",
+        "4": "flight",
+        "5": "Vid",
+        "6": "Lpe",
+        "created_at": "2017-06-21 21:01:06"
+    },
+    {
+        "0": "vel",
+        "1": "flight",
+        "2": "world",
+        "3": "traveling",
+        "4": "cars",
+        "5": "Lpe",
+        "6": "Vid",
+        "created_at": "2017-06-21 23:01:04"
+    },
+    {
+        "0": "ele",
+        "1": "world",
+        "2": "flight",
+        "3": "cars",
+        "4": "traveling",
+        "created_at": "2017-06-22 01:01:06"
+    },
+    {
+        "0": "Vid",
+        "1": "world",
+        "2": "flight",
+        "3": "traveling",
+        "4": "cars",
+        "5": "Tech",
+        "6": "vel",
+        "7": "Lpe",
+        "8": "ele",
+        "9": "Hea",
+        "created_at": "2017-06-22 02:01:05"
+    },
+    {
+        "0": "Hea",
+        "1": "world",
+        "2": "cars",
+        "3": "flight",
+        "4": "traveling",
+        "5": "ele",
+        "6": "vel",
+        "7": "Tech",
+        "8": "Vid",
+        "9": "Lpe",
+        "created_at": "2017-06-24 06:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "traveling",
+        "2": "world",
+        "3": "flight",
+        "4": "cars",
+        "created_at": "2017-06-24 13:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "traveling",
+        "2": "world",
+        "3": "cars",
+        "4": "flight",
+        "5": "vel",
+        "6": "Vid",
+        "created_at": "2017-06-24 14:00:01"
+    },
+    {
+        "0": "vel",
+        "1": "world",
+        "2": "traveling",
+        "3": "flight",
+        "4": "cars",
+        "5": "Hea",
+        "created_at": "2017-06-24 16:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "cars",
+        "2": "world",
+        "3": "flight",
+        "4": "traveling",
+        "5": "Lpe",
+        "6": "Tech",
+        "created_at": "2017-06-24 18:00:01"
+    },
+    {
+        "0": "Tech",
+        "1": "traveling",
+        "2": "flight",
+        "3": "cars",
+        "4": "world",
+        "5": "ele",
+        "created_at": "2017-06-24 22:00:01"
+    },
+    {
+        "0": "Vid",
+        "1": "flight",
+        "2": "traveling",
+        "3": "world",
+        "4": "cars",
+        "5": "Tech",
+        "created_at": "2017-06-24 23:00:01"
+    },
+    {
+        "0": "ele",
+        "1": "traveling",
+        "2": "flight",
+        "3": "world",
+        "4": "cars",
+        "5": "vel",
+        "created_at": "2017-06-25 01:00:01"
+    },
+    {
+        "0": "vel",
+        "1": "traveling",
+        "2": "cars",
+        "3": "flight",
+        "4": "world",
+        "created_at": "2017-06-25 02:00:01"
+    },
+    {
+        "0": "vel",
+        "1": "traveling",
+        "2": "cars",
+        "3": "flight",
+        "4": "world",
+        "5": "ele",
+        "created_at": "2017-06-25 03:00:01"
+    },
+    {
+        "0": "Tech",
+        "1": "cars",
+        "2": "flight",
+        "3": "traveling",
+        "4": "world",
+        "5": "Vid",
+        "6": "vel",
+        "created_at": "2017-06-25 04:00:01"
+    },
+    {
+        "0": "vel",
+        "1": "traveling",
+        "2": "world",
+        "3": "cars",
+        "4": "flight",
+        "5": "Hea",
+        "6": "ele",
+        "7": "Vid",
+        "8": "Tech",
+        "created_at": "2017-06-25 06:00:01"
+    },
+    {
+        "0": "Vid",
+        "1": "flight",
+        "2": "traveling",
+        "3": "cars",
+        "4": "world",
+        "5": "Tech",
+        "6": "vel",
+        "created_at": "2017-06-25 10:00:01"
+    },
+    {
+        "0": "ele",
+        "1": "flight",
+        "2": "traveling",
+        "3": "cars",
+        "4": "world",
+        "5": "Hea",
+        "6": "vel",
+        "created_at": "2017-06-25 12:00:01"
+    },
+    {
+        "0": "Lpe",
+        "1": "world",
+        "2": "flight",
+        "3": "cars",
+        "4": "traveling",
+        "5": "Vid",
+        "created_at": "2017-06-25 14:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "world",
+        "2": "flight",
+        "3": "traveling",
+        "4": "cars",
+        "5": "Tech",
+        "created_at": "2017-06-25 15:00:01"
+    },
+    {
+        "0": "Vid",
+        "1": "world",
+        "2": "traveling",
+        "3": "flight",
+        "4": "cars",
+        "created_at": "2017-06-25 16:00:01"
+    },
+    {
+        "0": "ele",
+        "1": "world",
+        "2": "cars",
+        "3": "traveling",
+        "4": "flight",
+        "5": "Vid",
+        "6": "Tech",
+        "created_at": "2017-06-25 17:00:01"
+    },
+    {
+        "0": "ele",
+        "1": "traveling",
+        "2": "flight",
+        "3": "world",
+        "4": "cars",
+        "created_at": "2017-06-25 20:00:01"
+    },
+    {
+        "0": "vel",
+        "1": "world",
+        "2": "cars",
+        "3": "flight",
+        "4": "traveling",
+        "5": "Lpe",
+        "6": "Vid",
+        "created_at": "2017-06-25 21:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "world",
+        "2": "traveling",
+        "3": "flight",
+        "4": "cars",
+        "5": "Vid",
+        "6": "Lpe",
+        "7": "vel",
+        "created_at": "2017-06-26 00:00:01"
+    },
+    {
+        "0": "Tech",
+        "1": "traveling",
+        "2": "flight",
+        "3": "world",
+        "4": "cars",
+        "created_at": "2017-06-26 05:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "traveling",
+        "2": "flight",
+        "3": "cars",
+        "4": "world",
+        "5": "Vid",
+        "created_at": "2017-06-26 06:00:01"
+    },
+    {
+        "0": "ele",
+        "1": "cars",
+        "2": "traveling",
+        "3": "world",
+        "4": "flight",
+        "5": "Tech",
+        "created_at": "2017-06-26 07:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "world",
+        "2": "traveling",
+        "3": "cars",
+        "4": "flight",
+        "5": "vel",
+        "created_at": "2017-06-26 08:00:01"
+    },
+    {
+        "0": "ele",
+        "1": "traveling",
+        "2": "world",
+        "3": "cars",
+        "4": "flight",
+        "created_at": "2017-06-26 09:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "world",
+        "2": "flight",
+        "3": "traveling",
+        "4": "cars",
+        "5": "Tech",
+        "6": "ele",
+        "created_at": "2017-06-26 10:00:01"
+    },
+    {
+        "0": "vel",
+        "1": "flight",
+        "2": "cars",
+        "3": "traveling",
+        "4": "world",
+        "5": "ele",
+        "created_at": "2017-06-26 12:00:01"
+    },
+    {
+        "0": "Vid",
+        "1": "flight",
+        "2": "world",
+        "3": "traveling",
+        "4": "cars",
+        "5": "Tech",
+        "6": "vel",
+        "7": "Lpe",
+        "8": "ele",
+        "created_at": "2017-06-26 13:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "cars",
+        "2": "traveling",
+        "3": "flight",
+        "4": "world",
+        "5": "Lpe",
+        "6": "Vid",
+        "created_at": "2017-06-26 17:00:02"
+    },
+    {
+        "0": "vel",
+        "1": "cars",
+        "2": "world",
+        "3": "flight",
+        "4": "traveling",
+        "5": "ele",
+        "created_at": "2017-06-26 19:00:01"
+    },
+    {
+        "0": "Lpe",
+        "1": "cars",
+        "2": "traveling",
+        "3": "world",
+        "4": "flight",
+        "5": "Tech",
+        "6": "Vid",
+        "created_at": "2017-06-26 20:00:01"
+    },
+    {
+        "0": "Tech",
+        "1": "traveling",
+        "2": "flight",
+        "3": "cars",
+        "4": "world",
+        "created_at": "2017-06-26 22:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "traveling",
+        "2": "flight",
+        "3": "cars",
+        "4": "world",
+        "5": "Tech",
+        "created_at": "2017-06-26 23:00:01"
+    },
+    {
+        "0": "Vid",
+        "1": "cars",
+        "2": "flight",
+        "3": "traveling",
+        "4": "world",
+        "5": "vel",
+        "created_at": "2017-06-27 00:00:01"
+    },
+    {
+        "0": "Tech",
+        "1": "traveling",
+        "2": "cars",
+        "3": "flight",
+        "4": "world",
+        "5": "Lpe",
+        "created_at": "2017-06-27 01:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "flight",
+        "2": "cars",
+        "3": "traveling",
+        "4": "world",
+        "5": "Vid",
+        "6": "ele",
+        "created_at": "2017-06-27 02:00:01"
+    },
+    {
+        "0": "vel",
+        "1": "cars",
+        "2": "world",
+        "3": "flight",
+        "4": "traveling",
+        "5": "ele",
+        "6": "Tech",
+        "created_at": "2017-06-27 04:00:01"
+    },
+    {
+        "0": "Tech",
+        "1": "world",
+        "2": "flight",
+        "3": "cars",
+        "4": "traveling",
+        "5": "Hea",
+        "6": "vel",
+        "7": "Vid",
+        "created_at": "2017-06-27 06:00:01"
+    },
+    {
+        "0": "vel",
+        "1": "world",
+        "2": "traveling",
+        "3": "flight",
+        "4": "cars",
+        "created_at": "2017-06-27 11:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "traveling",
+        "2": "world",
+        "3": "cars",
+        "4": "flight",
+        "5": "Tech",
+        "created_at": "2017-06-27 12:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "flight",
+        "2": "traveling",
+        "3": "world",
+        "4": "cars",
+        "created_at": "2017-06-27 13:00:01"
+    },
+    {
+        "0": "Lpe",
+        "1": "world",
+        "2": "flight",
+        "3": "cars",
+        "4": "traveling",
+        "5": "Vid",
+        "created_at": "2017-06-27 14:00:01"
+    },
+    {
+        "0": "Vid",
+        "1": "world",
+        "2": "cars",
+        "3": "traveling",
+        "4": "flight",
+        "created_at": "2017-06-27 15:00:01"
+    },
+    {
+        "0": "Hea",
+        "1": "cars",
+        "2": "world",
+        "3": "traveling",
+        "4": "flight",
+        "5": "Lpe",
+        "6": "ele",
+        "7": "Vid",
+        "8": "vel",
+        "9": "Tech",
+        "created_at": "2017-06-27 16:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "medicine",
+        "5": "doctor",
+        "created_at": "2017-06-27 22:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "healht",
+        "created_at": "2017-06-28 00:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "4": "medicine",
+        "5": "help",
+        "created_at": "2017-06-28 01:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "help",
+        "5": "healht",
+        "6": "vacine",
+        "7": "medicine",
+        "created_at": "2017-06-28 03:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "created_at": "2017-06-28 09:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "help",
+        "5": "vacine",
+        "6": "health",
+        "7": "doctor",
+        "created_at": "2017-06-28 10:00:01"
+    },
+    {
+        "0": "health",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "doctor",
+        "created_at": "2017-06-28 19:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "help",
+        "5": "vacine",
+        "6": "doctor",
+        "created_at": "2017-06-28 20:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "doctor",
+        "created_at": "2017-06-28 23:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "health",
+        "5": "help",
+        "created_at": "2017-06-29 02:00:01"
+    },
+    {
+        "0": "health",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "created_at": "2017-06-29 05:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "medicine",
+        "created_at": "2017-06-29 06:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "created_at": "2017-06-29 07:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "vacine",
+        "5": "medicine",
+        "created_at": "2017-06-29 08:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "help",
+        "created_at": "2017-06-29 11:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "health",
+        "5": "medicine",
+        "6": "help",
+        "created_at": "2017-06-29 12:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "created_at": "2017-06-29 15:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "medicine",
+        "created_at": "2017-06-29 16:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "created_at": "2017-06-29 17:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "help",
+        "created_at": "2017-06-29 18:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "created_at": "2017-06-29 19:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "vacine",
+        "5": "health",
+        "6": "medicine",
+        "created_at": "2017-06-29 20:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "health",
+        "5": "help",
+        "created_at": "2017-06-30 00:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "4": "help",
+        "5": "medicine",
+        "created_at": "2017-06-30 02:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "medicine",
+        "5": "doctor",
+        "6": "health",
+        "created_at": "2017-06-30 04:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "created_at": "2017-06-30 07:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "4": "help",
+        "5": "vacine",
+        "6": "health",
+        "created_at": "2017-06-30 08:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "health",
+        "5": "help",
+        "created_at": "2017-06-30 11:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "medicine",
+        "5": "vacine",
+        "created_at": "2017-06-30 13:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "help",
+        "5": "health",
+        "6": "medicine",
+        "7": "vacine",
+        "created_at": "2017-06-30 16:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "vacine",
+        "created_at": "2017-06-30 23:00:01"
+    },
+    {
+        "0": "help",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "doctor",
+        "created_at": "2017-07-01 01:00:01"
+    },
+    {
+        "0": "help",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "created_at": "2017-07-01 02:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "health",
+        "created_at": "2017-07-01 03:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "created_at": "2017-07-01 04:00:01"
+    },
+    {
+        "0": "help",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "medicine",
+        "created_at": "2017-07-01 05:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "created_at": "2017-07-01 06:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "help",
+        "5": "vacine",
+        "created_at": "2017-07-01 07:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "medicine",
+        "5": "help",
+        "created_at": "2017-07-01 09:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "help",
+        "created_at": "2017-07-01 11:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "medicine",
+        "created_at": "2017-07-01 12:00:01"
+    },
+    {
+        "0": "health",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "created_at": "2017-07-01 13:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "medicine",
+        "created_at": "2017-07-01 14:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "help",
+        "created_at": "2017-07-01 15:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "created_at": "2017-07-01 17:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "medicine",
+        "5": "vacine",
+        "created_at": "2017-07-01 18:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "vacine",
+        "5": "medicine",
+        "created_at": "2017-07-01 20:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "created_at": "2017-07-01 22:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "doctor",
+        "created_at": "2017-07-01 23:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "created_at": "2017-07-02 00:00:02"
+    },
+    {
+        "0": "vacine",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "doctor",
+        "created_at": "2017-07-02 01:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "help",
+        "5": "vacine",
+        "6": "doctor",
+        "7": "health",
+        "created_at": "2017-07-02 02:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "doctor",
+        "created_at": "2017-07-02 07:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "created_at": "2017-07-02 08:00:01"
+    },
+    {
+        "0": "help",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "doctor",
+        "5": "health",
+        "created_at": "2017-07-02 10:00:01"
+    },
+    {
+        "0": "health",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "4": "medicine",
+        "created_at": "2017-07-02 12:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "created_at": "2017-07-02 13:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "doctor",
+        "5": "medicine",
+        "6": "vacine",
+        "7": "help",
+        "created_at": "2017-07-02 14:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "vacine",
+        "created_at": "2017-07-02 20:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "created_at": "2017-07-02 21:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "vacine",
+        "5": "medicine",
+        "created_at": "2017-07-02 22:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "health",
+        "5": "doctor",
+        "6": "medicine",
+        "created_at": "2017-07-03 03:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "medicine",
+        "5": "health",
+        "created_at": "2017-07-03 11:00:01"
+    },
+    {
+        "0": "help",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "health",
+        "5": "doctor",
+        "created_at": "2017-07-03 13:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "medicine",
+        "created_at": "2017-07-03 17:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "vacine",
+        "5": "doctor",
+        "6": "medicine",
+        "created_at": "2017-07-03 19:00:02"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "created_at": "2017-07-03 23:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "medicine",
+        "created_at": "2017-07-04 00:00:01"
+    },
+    {
+        "0": "help",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "health",
+        "5": "vacine",
+        "created_at": "2017-07-04 01:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "doctor",
+        "created_at": "2017-07-04 03:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "help",
+        "5": "vacine",
+        "created_at": "2017-07-04 04:00:01"
+    },
+    {
+        "0": "health",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "vacine",
+        "created_at": "2017-07-04 07:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "medicine",
+        "5": "vacine",
+        "6": "doctor",
+        "created_at": "2017-07-04 08:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "health",
+        "5": "doctor",
+        "6": "medicine",
+        "7": "help",
+        "created_at": "2017-07-04 13:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "medicine",
+        "5": "vacine",
+        "6": "doctor",
+        "created_at": "2017-07-04 20:00:01"
+    },
+    {
+        "0": "health",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "vacine",
+        "created_at": "2017-07-05 01:00:01"
+    },
+    {
+        "0": "help",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "doctor",
+        "5": "vacine",
+        "6": "health",
+        "7": "medicine",
+        "created_at": "2017-07-05 02:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "vacine",
+        "5": "doctor",
+        "created_at": "2017-07-05 07:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "doctor",
+        "5": "vacine",
+        "created_at": "2017-07-05 09:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "4": "help",
+        "5": "doctor",
+        "6": "health",
+        "7": "medicine",
+        "created_at": "2017-07-05 11:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "doctor",
+        "created_at": "2017-07-05 16:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "vacine",
+        "created_at": "2017-07-05 17:00:01"
+    },
+    {
+        "0": "help",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "created_at": "2017-07-05 18:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "vacine",
+        "5": "medicine",
+        "created_at": "2017-07-05 19:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "help",
+        "5": "health",
+        "created_at": "2017-07-05 21:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "vacine",
+        "created_at": "2017-07-05 23:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "created_at": "2017-07-06 00:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "doctor",
+        "created_at": "2017-07-06 01:00:01"
+    },
+    {
+        "0": "health",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "created_at": "2017-07-06 02:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "help",
+        "created_at": "2017-07-06 03:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "medicine",
+        "created_at": "2017-07-06 04:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "doctor",
+        "created_at": "2017-07-06 06:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "created_at": "2017-07-06 07:00:01"
+    },
+    {
+        "0": "health",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "4": "doctor",
+        "created_at": "2017-07-06 09:00:01"
+    },
+    {
+        "0": "help",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "created_at": "2017-07-06 10:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "vacine",
+        "5": "health",
+        "created_at": "2017-07-06 11:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "created_at": "2017-07-06 14:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "doctor",
+        "5": "help",
+        "created_at": "2017-07-06 15:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "4": "vacine",
+        "5": "help",
+        "6": "doctor",
+        "created_at": "2017-07-06 17:00:01"
+    },
+    {
+        "0": "help",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "created_at": "2017-07-06 21:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "medicine",
+        "created_at": "2017-07-06 22:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "help",
+        "5": "health",
+        "created_at": "2017-07-06 23:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "health",
+        "5": "help",
+        "created_at": "2017-07-07 01:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "created_at": "2017-07-07 05:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "medicine",
+        "5": "help",
+        "created_at": "2017-07-07 06:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "health",
+        "5": "medicine",
+        "created_at": "2017-07-07 08:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "medicine",
+        "5": "help",
+        "created_at": "2017-07-07 10:00:01"
+    },
+    {
+        "0": "health",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "doctor",
+        "5": "medicine",
+        "6": "help",
+        "created_at": "2017-07-07 12:00:01"
+    },
+    {
+        "0": "help",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "medicine",
+        "5": "vacine",
+        "6": "health",
+        "created_at": "2017-07-07 17:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "created_at": "2017-07-07 20:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "help",
+        "created_at": "2017-07-07 21:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "4": "doctor",
+        "created_at": "2017-07-07 22:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "health",
+        "created_at": "2017-07-07 23:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "vacine",
+        "created_at": "2017-07-08 00:00:02"
+    },
+    {
+        "0": "help",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "vacine",
+        "created_at": "2017-07-08 01:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "vacine",
+        "created_at": "2017-07-08 03:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "help",
+        "created_at": "2017-07-08 05:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "created_at": "2017-07-08 06:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "medicine",
+        "5": "vacine",
+        "created_at": "2017-07-08 07:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "help",
+        "created_at": "2017-07-08 09:00:01"
+    },
+    {
+        "0": "health",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "created_at": "2017-07-08 10:00:01"
+    },
+    {
+        "0": "help",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "vacine",
+        "created_at": "2017-07-08 11:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "created_at": "2017-07-08 12:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "doctor",
+        "5": "help",
+        "6": "health",
+        "created_at": "2017-07-08 13:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "vacine",
+        "5": "doctor",
+        "created_at": "2017-07-08 17:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "created_at": "2017-07-08 19:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "medicine",
+        "created_at": "2017-07-08 20:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "help",
+        "created_at": "2017-07-08 21:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "vacine",
+        "created_at": "2017-07-09 00:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "help",
+        "created_at": "2017-07-09 01:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "health",
+        "5": "help",
+        "created_at": "2017-07-09 02:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "doctor",
+        "created_at": "2017-07-09 05:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "created_at": "2017-07-09 06:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "health",
+        "5": "help",
+        "created_at": "2017-07-09 07:00:01"
+    },
+    {
+        "0": "help",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "created_at": "2017-07-09 09:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "doctor",
+        "5": "medicine",
+        "created_at": "2017-07-09 10:00:01"
+    },
+    {
+        "0": "help",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "medicine",
+        "5": "doctor",
+        "6": "vacine",
+        "created_at": "2017-07-09 12:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "doctor",
+        "5": "medicine",
+        "6": "help",
+        "created_at": "2017-07-09 15:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "created_at": "2017-07-09 21:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "vacine",
+        "created_at": "2017-07-09 22:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "created_at": "2017-07-09 23:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "health",
+        "5": "help",
+        "created_at": "2017-07-10 00:00:01"
+    },
+    {
+        "0": "help",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "doctor",
+        "5": "health",
+        "created_at": "2017-07-10 02:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "created_at": "2017-07-10 04:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "doctor",
+        "created_at": "2017-07-10 05:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "vacine",
+        "created_at": "2017-07-10 06:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "created_at": "2017-07-10 07:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "medicine",
+        "5": "vacine",
+        "6": "health",
+        "created_at": "2017-07-10 08:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "help",
+        "5": "medicine",
+        "created_at": "2017-07-10 11:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "created_at": "2017-07-10 14:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "vacine",
+        "5": "doctor",
+        "6": "medicine",
+        "created_at": "2017-07-10 15:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "help",
+        "5": "medicine",
+        "created_at": "2017-07-10 18:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "health",
+        "5": "help",
+        "6": "doctor",
+        "7": "vacine",
+        "created_at": "2017-07-10 22:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "created_at": "2017-07-11 04:00:01"
+    },
+    {
+        "0": "health",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "help",
+        "created_at": "2017-07-11 05:00:01"
+    },
+    {
+        "0": "help",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "health",
+        "created_at": "2017-07-11 06:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "health",
+        "5": "help",
+        "created_at": "2017-07-11 08:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "doctor",
+        "created_at": "2017-07-11 12:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "vacine",
+        "5": "health",
+        "6": "doctor",
+        "7": "help",
+        "created_at": "2017-07-11 14:00:01"
+    },
+    {
+        "0": "doctor",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "health",
+        "5": "medicine",
+        "created_at": "2017-07-11 18:00:01"
+    },
+    {
+        "0": "medicine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "created_at": "2017-07-11 22:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "vacine",
+        "created_at": "2017-07-11 23:00:02"
+    },
+    {
+        "0": "medicine",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "created_at": "2017-07-12 00:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "help",
+        "created_at": "2017-07-12 01:00:01"
+    },
+    {
+        "0": "vacine",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "medicine",
+        "5": "help",
+        "created_at": "2017-07-12 02:00:01"
+    },
+    {
+        "0": "health",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "doctor",
+        "5": "help",
+        "created_at": "2017-07-12 05:00:01"
+    },
+    {
+        "0": "around",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "ripped",
+        "created_at": "2017-07-12 07:00:01"
+    },
+    {
+        "0": "ripped",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "created_at": "2017-07-12 08:00:01"
+    },
+    {
+        "0": "impact",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "recognize",
+        "created_at": "2017-07-12 09:00:01"
+    },
+    {
+        "0": "before",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "around",
+        "5": "impact",
+        "6": "recognize",
+        "7": "ripped",
+        "created_at": "2017-07-12 10:00:01"
+    },
+    {
+        "0": "before",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "impact",
+        "created_at": "2017-07-12 15:00:01"
+    },
+    {
+        "0": "impact",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "4": "around",
+        "5": "before",
+        "created_at": "2017-07-12 17:00:01"
+    },
+    {
+        "0": "ripped",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "before",
+        "5": "recognize",
+        "created_at": "2017-07-12 20:00:01"
+    },
+    {
+        "0": "impact",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "recognize",
+        "5": "around",
+        "created_at": "2017-07-12 23:00:01"
+    },
+    {
+        "0": "before",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "created_at": "2017-07-13 01:00:01"
+    },
+    {
+        "0": "recognize",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "4": "ripped",
+        "created_at": "2017-07-13 02:00:01"
+    },
+    {
+        "0": "before",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "around",
+        "5": "recognize",
+        "6": "impact",
+        "created_at": "2017-07-13 03:00:02"
+    },
+    {
+        "0": "ripped",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "impact",
+        "5": "around",
+        "created_at": "2017-07-13 07:00:01"
+    },
+    {
+        "0": "ripped",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "created_at": "2017-07-13 09:00:01"
+    },
+    {
+        "0": "recognize",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "around",
+        "5": "impact",
+        "created_at": "2017-07-13 10:00:01"
+    },
+    {
+        "0": "around",
+        "1": "cars",
+        "2": "news",
+        "3": "money",
+        "created_at": "2017-07-13 12:00:01"
+    },
+    {
+        "0": "before",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "ripped",
+        "5": "impact",
+        "created_at": "2017-07-13 13:00:01"
+    },
+    {
+        "0": "recognize",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "around",
+        "created_at": "2017-07-13 15:00:01"
+    },
+    {
+        "0": "before",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "created_at": "2017-07-13 16:00:01"
+    },
+    {
+        "0": "recognize",
+        "1": "money",
+        "2": "news",
+        "3": "cars",
+        "4": "around",
+        "created_at": "2017-07-13 17:00:01"
+    },
+    {
+        "0": "ripped",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "impact",
+        "5": "recognize",
+        "created_at": "2017-07-13 18:00:01"
+    },
+    {
+        "0": "before",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "recognize",
+        "created_at": "2017-07-13 21:00:01"
+    },
+    {
+        "0": "recognize",
+        "1": "cars",
+        "2": "money",
+        "3": "news",
+        "4": "ripped",
+        "5": "before",
+        "created_at": "2017-07-13 23:00:01"
+    },
+    {
+        "0": "around",
+        "1": "money",
+        "2": "cars",
+        "3": "news",
+        "4": "before",
+        "created_at": "2017-07-14 02:00:01"
+    },
+    {
+        "0": "before",
+        "1": "news",
+        "2": "money",
+        "3": "cars",
+        "created_at": "2017-07-14 03:00:01"
+    },
+    {
+        "0": "before",
+        "1": "news",
+        "2": "cars",
+        "3": "money",
+        "4": "recognize",
+        "5": "travel",
+        "created_at": "2017-07-14 04:00:01"
+    },
+    {
+        "0": "before",
+        "1": "new",
+        "2": "tweaks",
+        "3": "slim",
+        "4": "around",
+        "5": "travel",
+        "6": "shield",
+        "created_at": "2017-07-14 06:00:01"
+    },
+    {
+        "0": "travel",
+        "1": "tweaks",
+        "2": "slim",
+        "3": "new",
+        "created_at": "2017-07-14 10:00:01"
+    },
+    {
+        "0": "before",
+        "1": "slim",
+        "2": "new",
+        "3": "tweaks",
+        "4": "shield",
+        "5": "travel",
+        "created_at": "2017-07-14 11:00:01"
+    },
+    {
+        "0": "shield",
+        "1": "tweaks",
+        "2": "new",
+        "3": "slim",
+        "created_at": "2017-07-14 15:00:01"
+    },
+    {
+        "0": "a",
+        "1": "offer_key",
+        "2": "nrid",
+        "created_at": "2017-07-14 15:00:02"
+    },
+    {
+        "0": "around",
+        "1": "new",
+        "2": "tweaks",
+        "3": "slim",
+        "created_at": "2017-07-14 17:00:01"
+    },
+    {
+        "0": "shield",
+        "1": "slim",
+        "2": "tweaks",
+        "3": "new",
+        "4": "before",
+        "created_at": "2017-07-14 18:00:01"
+    },
+    {
+        "0": "before",
+        "1": "slim",
+        "2": "new",
+        "3": "tweaks",
+        "4": "shield",
+        "created_at": "2017-07-14 19:00:01"
+    },
+    {
+        "0": "around",
+        "1": "slim",
+        "2": "new",
+        "3": "tweaks",
+        "4": "travel",
+        "5": "before",
+        "6": "shield",
+        "created_at": "2017-07-14 21:00:01"
+    },
+    {
+        "0": "before",
+        "1": "tweaks",
+        "2": "new",
+        "3": "slim",
+        "4": "shield",
+        "5": "around",
+        "6": "travel",
+        "created_at": "2017-07-15 05:00:01"
+    },
+    {
+        "0": "tweaks",
+        "1": "new",
+        "2": "slim",
+        "3": "travel",
+        "4": "around",
+        "5": "shield",
+        "6": "before",
+        "created_at": "2017-07-17 13:00:01"
+    },
+    {
+        "0": "newest",
+        "1": "information",
+        "2": "round",
+        "3": "travel",
+        "4": "before",
+        "5": "shield",
+        "6": "around",
+        "created_at": "2017-07-22 10:00:01"
+    },
+    {
+        "0": "info",
+        "1": "rand",
+        "2": "elsa",
+        "3": "arnd",
+        "4": "reinz",
+        "5": "fore",
+        "6": "shld",
+        "7": "travel",
+        "8": "befe",
+        "created_at": "2017-07-26 09:00:01"
+    },
+    {
+        "0": "elsa",
+        "1": "rand",
+        "2": "info",
+        "3": "true",
+        "4": "shop",
+        "5": "gift",
+        "6": "work",
+        "7": "slam",
+        "8": "noise",
+        "created_at": "2017-08-01 10:00:01"
+    },
+    {
+        "0": "paper",
+        "1": "mail",
+        "2": "help",
+        "3": "inform",
+        "4": "work",
+        "5": "shop",
+        "6": "money",
+        "7": "noise",
+        "8": "slam",
+        "9": "gift",
+        "created_at": "2017-08-01 19:00:01"
+    },
+    {
+        "0": "pa",
+        "1": "ma",
+        "2": "shop",
+        "3": "work",
+        "4": "gift",
+        "created_at": "2017-08-03 22:00:02"
+    },
+    {
+        "0": "pan",
+        "1": "man",
+        "2": "gift",
+        "3": "shop",
+        "4": "work",
+        "created_at": "2017-08-07 06:00:01"
+    },
+    {
+        "0": "mano",
+        "1": "pano",
+        "2": "work",
+        "3": "gift",
+        "4": "shop",
+        "created_at": "2017-08-11 06:00:01"
+    },
+    {
+        "0": "warm",
+        "1": "sea",
+        "2": "gifts",
+        "3": "worker",
+        "4": "shoping",
+        "created_at": "2017-08-25 06:00:01"
+    },
+    {
+        "0": "twix",
+        "1": "party",
+        "2": "mars",
+        "3": "snicers",
+        "4": "cadberry",
+        "created_at": "2017-09-11 09:01:01"
+    },
+    {
+        "0": "twixy",
+        "1": "party",
+        "2": "cadberrys",
+        "3": "snicers",
+        "4": "mars",
+        "5": "rest",
+        "6": "mans",
+        "7": "bmwa",
+        "8": "snow",
+        "9": "flap",
+        "10": "rain",
+        "11": "arain",
+        "created_at": "2017-09-12 06:01:01"
+    },
+    {
+        "0": "twixys",
+        "1": "partys",
+        "2": "flaps",
+        "3": "snows",
+        "4": "arains",
+        "created_at": "2017-09-15 14:00:01"
+    },
+    {
+        "0": "spartys",
+        "1": "stwixys",
+        "2": "arains",
+        "3": "flaps",
+        "4": "snows",
+        "5": "sun",
+        "6": "snow",
+        "created_at": "2017-09-16 07:00:01"
+    },
+    {
+        "0": "wow",
+        "1": "thx",
+        "2": "sun",
+        "3": "snow",
+        "4": "rain",
+        "created_at": "2017-09-16 16:00:01"
+    },
+    {
+        "0": "wows",
+        "1": "thxs",
+        "2": "rains",
+        "3": "snows",
+        "4": "suns",
+        "created_at": "2017-09-17 07:00:01"
+    },
+    {
+        "0": "th",
+        "1": "wo",
+        "2": "rai",
+        "3": "sno",
+        "4": "sun",
+        "created_at": "2017-09-17 16:00:01"
+    },
+    {
+        "0": "won",
+        "1": "thn",
+        "2": "rainy",
+        "3": "snowy",
+        "4": "sunny",
+        "5": "sunnys",
+        "6": "rainys",
+        "7": "snowys",
+        "created_at": "2017-09-18 07:00:01"
+    },
+    {
+        "0": "thns",
+        "1": "wons",
+        "2": "hopes",
+        "3": "magazinesys",
+        "4": "shops",
+        "created_at": "2017-09-19 08:00:02"
+    },
+    {
+        "0": "fix",
+        "1": "six",
+        "2": "hoper",
+        "3": "shop",
+        "4": "magazine",
+        "created_at": "2017-09-19 12:00:01"
+    },
+    {
+        "0": "fixo",
+        "1": "sixo",
+        "2": "magazinez",
+        "3": "hoperz",
+        "4": "shopz",
+        "created_at": "2017-09-20 14:01:01"
+    },
+    {
+        "0": "opa",
+        "1": "hopa",
+        "2": "mag",
+        "3": "shop",
+        "4": "enter",
+        "created_at": "2017-09-20 18:01:01"
+    },
+    {
+        "0": "opas",
+        "1": "hopas",
+        "2": "maga",
+        "3": "shops",
+        "4": "qenter",
+        "created_at": "2017-09-21 07:00:01"
+    },
+    {
+        "0": "nvid",
+        "1": "disp",
+        "2": "magazine",
+        "created_at": "2017-09-22 06:00:01"
+    },
+    {
+        "0": "opas",
+        "1": "hopas",
+        "2": "shops",
+        "created_at": "2017-09-22 07:00:02"
+    },
+    {
+        "0": "nvid",
+        "1": "disp",
+        "2": "damn",
+        "created_at": "2017-09-22 07:00:02"
+    },
+    {
+        "0": "opas",
+        "1": "hopas",
+        "2": "shops",
+        "created_at": "2017-09-22 08:00:01"
+    },
+    {
+        "0": "disp",
+        "1": "nvid",
+        "2": "engine",
+        "created_at": "2017-09-22 08:00:01"
+    },
+    {
+        "0": "opas",
+        "1": "hopas",
+        "2": "shops",
+        "created_at": "2017-09-22 09:00:01"
+    },
+    {
+        "0": "nvid",
+        "1": "disp",
+        "2": "engine",
+        "created_at": "2017-09-22 09:00:01"
+    },
+    {
+        "0": "opas",
+        "1": "hopas",
+        "2": "shops",
+        "created_at": "2017-09-22 10:00:01"
+    },
+    {
+        "0": "nvid",
+        "1": "disp",
+        "2": "engine",
+        "3": "magazine",
+        "created_at": "2017-09-22 10:00:01"
+    },
+    {
+        "0": "opas",
+        "1": "hopas",
+        "2": "shops",
+        "created_at": "2017-09-22 11:00:01"
+    },
+    {
+        "0": "nvids",
+        "1": "disps",
+        "2": "engines",
+        "created_at": "2017-09-22 12:00:01"
+    },
+    {
+        "0": "opas",
+        "1": "hopas",
+        "2": "shops",
+        "created_at": "2017-09-22 12:00:01"
+    },
+    {
+        "0": "disps",
+        "1": "nvids",
+        "2": "magazines",
+        "3": "engines",
+        "4": "damns",
+        "created_at": "2017-09-22 13:00:01"
+    },
+    {
+        "0": "harm",
+        "1": "tweet",
+        "2": "pink",
+        "3": "black",
+        "4": "blue",
+        "created_at": "2017-09-22 18:00:01"
+    },
+    {
+        "0": "harms",
+        "1": "tweets",
+        "2": "black",
+        "3": "pink",
+        "4": "blue",
+        "created_at": "2017-09-22 20:00:01"
+    },
+    {
+        "0": "build",
+        "1": "tatoo",
+        "2": "black",
+        "3": "pink",
+        "4": "blue",
+        "created_at": "2017-09-23 12:00:01"
+    },
+    {
+        "0": "builds",
+        "1": "tatoos",
+        "2": "blue",
+        "3": "pink",
+        "4": "pinky",
+        "5": "bluey",
+        "6": "blacky",
+        "created_at": "2017-09-23 16:00:01"
+    },
+    {
+        "0": "tato",
+        "1": "buil",
+        "2": "check",
+        "3": "update",
+        "4": "idle",
+        "created_at": "2017-09-24 11:00:01"
+    },
+    {
+        "0": "tat",
+        "1": "bui",
+        "2": "check",
+        "3": "update",
+        "4": "idle",
+        "created_at": "2017-09-24 13:00:01"
+    },
+    {
+        "0": "atato",
+        "1": "abuio",
+        "2": "checkin",
+        "3": "idlehe",
+        "4": "supdate",
+        "created_at": "2017-09-25 07:00:01"
+    },
+    {
+        "0": "abuios",
+        "1": "atatos",
+        "2": "supdate",
+        "3": "idlehe",
+        "created_at": "2017-09-26 00:01:01"
+    },
+    {
+        "0": "forest",
+        "1": "fear",
+        "2": "moon",
+        "3": "land",
+        "4": "sara",
+        "created_at": "2017-09-26 06:00:01"
+    },
+    {
+        "0": "fears",
+        "1": "forests",
+        "2": "lands",
+        "3": "moons",
+        "4": "saras",
+        "5": "mylands",
+        "6": "mysaras",
+        "7": "mymoons",
+        "created_at": "2017-09-26 15:00:01"
+    },
+    {
+        "0": "hell",
+        "1": "heaven",
+        "2": "fear",
+        "3": "forest",
+        "4": "crome",
+        "5": "cromes",
+        "6": "forests",
+        "7": "fears",
+        "created_at": "2017-09-27 22:00:01"
+    },
+    {
+        "0": "guys",
+        "1": "hello",
+        "2": "gromes",
+        "3": "fores",
+        "4": "rampage",
+        "5": "twirk",
+        "6": "fones",
+        "created_at": "2017-09-28 12:00:01"
+    },
+    {
+        "0": "hel",
+        "1": "nuy",
+        "2": "twirke",
+        "3": "fonys",
+        "4": "page",
+        "created_at": "2017-09-29 07:00:01"
+    },
+    {
+        "0": "lamp",
+        "1": "hela",
+        "2": "fone",
+        "3": "pages",
+        "created_at": "2017-10-01 18:00:04"
+    },
+    {
+        "0": "helaw",
+        "1": "lampw",
+        "2": "pages",
+        "3": "twenty",
+        "4": "fone",
+        "created_at": "2017-10-01 20:00:05"
+    },
+    {
+        "0": "lampw",
+        "1": "helawa",
+        "2": "twenty",
+        "3": "fone",
+        "4": "pages",
+        "created_at": "2017-10-02 08:00:01"
+    },
+    {
+        "0": "tele",
+        "1": "line",
+        "2": "\u0430fly",
+        "3": "dance",
+        "4": "move",
+        "created_at": "2017-10-03 14:00:01"
+    },
+    {
+        "0": "metry",
+        "1": "kook",
+        "2": "shift",
+        "3": "top",
+        "4": "lock",
+        "created_at": "2017-10-04 18:00:01"
+    },
+    {
+        "0": "girlfriend",
+        "1": "killer",
+        "2": "wash",
+        "3": "sunny",
+        "4": "tops",
+        "created_at": "2017-10-05 09:00:01"
+    },
+    {
+        "0": "girlfriends",
+        "1": "killers",
+        "2": "sunnys",
+        "3": "topss",
+        "4": "washs",
+        "created_at": "2017-10-06 14:00:01"
+    },
+    {
+        "0": "cats",
+        "1": "dogs",
+        "2": "funny",
+        "3": "show",
+        "4": "showy",
+        "5": "songs",
+        "created_at": "2017-10-07 06:00:01"
+    },
+    {
+        "0": "penle",
+        "1": "vision",
+        "2": "band",
+        "3": "gun",
+        "4": "garage",
+        "created_at": "2017-10-07 18:00:01"
+    },
+    {
+        "0": "visions",
+        "1": "penles",
+        "2": "road",
+        "3": "gotcha",
+        "4": "twix",
+        "created_at": "2017-10-08 07:00:01"
+    },
+    {
+        "0": "penlesy",
+        "1": "visionsy",
+        "2": "roads",
+        "3": "twixs",
+        "4": "gotchas",
+        "created_at": "2017-10-08 16:00:01"
+    },
+    {
+        "0": "monk",
+        "1": "gizmo",
+        "2": "gotchas",
+        "3": "twixs",
+        "4": "roads",
+        "created_at": "2017-10-08 20:00:01"
+    },
+    {
+        "0": "monks",
+        "1": "gizmos",
+        "2": "nuts",
+        "3": "gotcha",
+        "4": "rone",
+        "created_at": "2017-10-09 20:00:01"
+    },
+    {
+        "0": "matter",
+        "1": "forewer",
+        "2": "flow",
+        "3": "cats",
+        "4": "air",
+        "5": "young",
+        "created_at": "2017-10-10 09:00:01"
+    },
+    {
+        "0": "young",
+        "1": "forewer",
+        "2": "cats",
+        "3": "flow",
+        "4": "air",
+        "created_at": "2017-10-10 14:00:01"
+    },
+    {
+        "0": "youngs",
+        "1": "forewers",
+        "2": "money",
+        "3": "news",
+        "4": "now",
+        "created_at": "2017-10-10 21:00:01"
+    },
+    {
+        "0": "fatal",
+        "1": "miss",
+        "2": "slam",
+        "3": "vodka",
+        "4": "nower",
+        "created_at": "2017-10-12 07:00:01"
+    },
+    {
+        "0": "missdeath",
+        "1": "fatalism",
+        "2": "snow",
+        "3": "dating",
+        "4": "girl",
+        "created_at": "2017-10-12 20:00:01"
+    },
+    {
+        "0": "mis",
+        "1": "fat",
+        "2": "snow",
+        "3": "girl",
+        "4": "dating",
+        "5": "love",
+        "created_at": "2017-10-13 10:00:01"
+    },
+    {
+        "0": "faty",
+        "1": "misy",
+        "2": "mobiles",
+        "3": "datings",
+        "4": "loves",
+        "created_at": "2017-10-13 19:00:01"
+    },
+    {
+        "0": "misys",
+        "1": "fatys",
+        "2": "head",
+        "3": "hand",
+        "4": "leg",
+        "created_at": "2017-10-14 07:00:01"
+    },
+    {
+        "0": "link",
+        "1": "api",
+        "2": "handy",
+        "3": "heady",
+        "4": "legy",
+        "created_at": "2017-10-14 16:00:01"
+    },
+    {
+        "0": "links",
+        "1": "apis",
+        "2": "derby",
+        "3": "spot",
+        "created_at": "2017-10-15 08:00:01"
+    },
+    {
+        "0": "more",
+        "1": "bore",
+        "2": "hand",
+        "3": "derby",
+        "4": "spot",
+        "created_at": "2017-10-15 14:00:01"
+    },
+    {
+        "0": "guide",
+        "1": "phone",
+        "2": "skipy",
+        "3": "spot",
+        "4": "derbys",
+        "created_at": "2017-10-15 19:00:01"
+    },
+    {
+        "0": "mobiles",
+        "1": "phones",
+        "2": "skinny",
+        "3": "sunny",
+        "4": "hots",
+        "created_at": "2017-10-16 05:00:01"
+    },
+    {
+        "0": "mobile",
+        "1": "phone",
+        "2": "suny",
+        "3": "kinny",
+        "4": "hot",
+        "created_at": "2017-10-16 10:00:01"
+    },
+    {
+        "0": "truck",
+        "1": "love",
+        "2": "notebook",
+        "3": "phone",
+        "created_at": "2017-10-16 16:00:01"
+    },
+    {
+        "0": "loveis",
+        "1": "truckon",
+        "2": "pc",
+        "3": "notebook",
+        "created_at": "2017-10-16 18:00:01"
+    },
+    {
+        "0": "tr",
+        "1": "lom",
+        "2": "notebook",
+        "3": "pc",
+        "4": "phone",
+        "created_at": "2017-10-16 20:00:01"
+    },
+    {
+        "0": "tr",
+        "1": "lo",
+        "2": "neptune",
+        "created_at": "2017-10-17 01:00:01"
+    },
+    {
+        "0": "bi",
+        "1": "bf",
+        "2": "rush",
+        "3": "neptune",
+        "4": "blizzard",
+        "created_at": "2017-10-17 02:00:01"
+    },
+    {
+        "0": "qw",
+        "1": "wf",
+        "2": "wash",
+        "3": "crack",
+        "created_at": "2017-10-17 07:00:01"
+    },
+    {
+        "0": "wfc",
+        "1": "qwc",
+        "2": "friends",
+        "3": "meeting",
+        "4": "washing",
+        "created_at": "2017-10-17 11:00:01"
+    },
+    {
+        "0": "qfcq",
+        "1": "qwcq",
+        "2": "meeting",
+        "3": "show",
+        "4": "walking",
+        "created_at": "2017-10-17 20:00:01"
+    },
+    {
+        "0": "omoh",
+        "1": "blia",
+        "2": "water",
+        "3": "wind",
+        "4": "firex",
+        "5": "windx",
+        "6": "waterx",
+        "created_at": "2017-10-18 06:00:01"
+    },
+    {
+        "0": "aqaz",
+        "1": "aqaw",
+        "2": "flow",
+        "3": "butter",
+        "4": "carryn",
+        "created_at": "2017-10-18 18:00:01"
+    },
+    {
+        "0": "acxz",
+        "1": "azxc",
+        "2": "carryn",
+        "3": "flower",
+        "4": "butter",
+        "created_at": "2017-10-18 21:00:01"
+    },
+    {
+        "0": "karl",
+        "1": "marl",
+        "2": "text",
+        "3": "paper",
+        "4": "content",
+        "created_at": "2017-10-19 03:00:01"
+    },
+    {
+        "0": "bnm",
+        "1": "hjk",
+        "2": "love",
+        "3": "sex",
+        "4": "dating",
+        "created_at": "2017-10-19 18:00:01"
+    },
+    {
+        "0": "bio",
+        "1": "slam",
+        "2": "sexon",
+        "3": "loves",
+        "4": "datings",
+        "created_at": "2017-10-20 04:00:01"
+    },
+    {
+        "0": "barack",
+        "1": "ignore",
+        "2": "rock",
+        "3": "bone",
+        "created_at": "2017-10-20 11:00:01"
+    },
+    {
+        "0": "inform",
+        "1": "sel",
+        "2": "ign",
+        "3": "hidi",
+        "4": "main",
+        "5": "dandy",
+        "created_at": "2017-10-20 14:00:01"
+    },
+    {
+        "0": "inform",
+        "1": "ignore",
+        "2": "selection",
+        "3": "stormed",
+        "created_at": "2017-10-20 18:00:01"
+    },
+    {
+        "0": "newst",
+        "1": "mail",
+        "2": "ignore",
+        "3": "selection",
+        "4": "information",
+        "5": "attacks",
+        "6": "stormed",
+        "7": "located",
+        "8": "report",
+        "9": "unknown",
+        "10": "missing",
+        "11": "capital",
+        "created_at": "2017-10-20 19:00:01"
+    },
+    {
+        "0": "deselect",
+        "1": "select",
+        "2": "informati",
+        "3": "mail",
+        "4": "newst",
+        "5": "stormed",
+        "6": "capital",
+        "7": "unknown",
+        "8": "located",
+        "9": "denominations",
+        "10": "missing",
+        "created_at": "2017-10-21 08:00:01"
+    },
+    {
+        "0": "ate",
+        "1": "news",
+        "2": "info",
+        "3": "wow",
+        "4": "mai",
+        "5": "missing",
+        "6": "unknown",
+        "7": "report",
+        "8": "denominations",
+        "9": "attacks",
+        "10": "capital",
+        "created_at": "2017-10-21 14:00:01"
+    },
+    {
+        "0": "ateo",
+        "1": "wowo",
+        "2": "news",
+        "3": "info",
+        "4": "mai",
+        "5": "located",
+        "6": "attacks",
+        "7": "denominations",
+        "8": "stormed",
+        "9": "unknown",
+        "10": "capital",
+        "11": "report",
+        "created_at": "2017-10-21 22:00:01"
+    },
+    {
+        "0": "cve",
+        "1": "infos",
+        "2": "news",
+        "3": "zte",
+        "4": "mails",
+        "5": "report",
+        "6": "missing",
+        "7": "denominations",
+        "8": "unknown",
+        "9": "capital",
+        "created_at": "2017-10-22 07:00:01"
+    },
+    {
+        "0": "pets",
+        "1": "meows",
+        "2": "hjk",
+        "3": "dogs",
+        "4": "tyu",
+        "5": "report",
+        "6": "located",
+        "created_at": "2017-10-22 12:00:01"
+    }
+]
